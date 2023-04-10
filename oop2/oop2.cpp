@@ -41,6 +41,8 @@ int main()
     cin >> mhs.nama;
     cout << "Masukkan NIM: ";
     cin >> mhs.nim;
+
+    mtk.inputmk();
    
 }
 
