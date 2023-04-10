@@ -46,7 +46,6 @@ int main()
     cout << "\n";
     mhs.tampil();
     mtk.tampilmk();
-   
 }
 
 
