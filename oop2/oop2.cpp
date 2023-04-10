@@ -36,6 +36,11 @@ int main()
 {
     Mahasiswa mhs;
     Matkul mtk;
+
+    cout << "Masukkan Nama: ";
+    cin >> mhs.nama;
+    cout << "Masukkan NIM: ";
+    cin >> mhs.nim;
    
 }
 
