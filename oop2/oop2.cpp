@@ -34,6 +34,8 @@ public:
 
 int main()
 {
+    Mahasiswa mhs;
+    Matkul mtk;
    
 }
 
