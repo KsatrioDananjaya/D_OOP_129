@@ -43,6 +43,8 @@ int main()
     cin >> mhs.nim;
 
     mtk.inputmk();
+    mhs.tampil();
+    mtk.tampilmk();
    
 }
 
